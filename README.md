@@ -31,19 +31,19 @@ Tidak hanya sebagai platform e-commerce, Aplikasi Karya Garut juga berperan seba
 ## Project Thumbnail 
 
 <p float="left">
-    <img src="./img/1.png" alt="Login" width="250">
+    <img src="./img/1.png" alt="Login" width="180">
     &nbsp;&nbsp;
-    <img src="./img/2.png" alt="Register" width="250">
+    <img src="./img/2.png" alt="Register" width="180">
     &nbsp;&nbsp;
-    <img src="./img/3.png" alt="home" width="250">
+    <img src="./img/3.png" alt="home" width="180">
     &nbsp;&nbsp;
-    <img src="./img/4.png" alt="detail_product" width="250">
+    <img src="./img/4.png" alt="detail_product" width="180">
     &nbsp;&nbsp;
-    <img src="./img/5.png" alt="list_product" width="250">
+    <img src="./img/5.png" alt="list_product" width="180">
     &nbsp;&nbsp;
-    <img src="./img/6.png" alt="Category" width="250">
+    <img src="./img/6.png" alt="Category" width="180">
     &nbsp;&nbsp;
-    <img src="./img/7.png" alt="Search" width="250">
+    <img src="./img/7.png" alt="Search" width="180">
     &nbsp;&nbsp;
-    <img src="./img/8.png" alt="profile" width="250">
+    <img src="./img/8.png" alt="profile" width="180">
 </p>
