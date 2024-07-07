@@ -1,0 +1,1 @@
+ C:\\Users\\bul\\Documents\\ozan\\project_mobile\\kuliner_1\\.dart_tool\\flutter_build\\4f8fd3c94543167ac4760c11dd9faea9\\native_assets.yaml: 
